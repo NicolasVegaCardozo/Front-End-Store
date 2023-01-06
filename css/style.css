@@ -1,0 +1,42 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+ol,
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #9C27B0;
+}
+
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+
+.navegacion {
+    background-color: #89119D;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    display: flex;
+    flex-direction: row;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    color: #FFCE00;
+}
