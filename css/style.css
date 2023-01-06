@@ -40,3 +40,13 @@ a {
     padding: 2%;
     color: #FFCE00;
 }
+
+.contenedor {
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+}
+
+.producto {
+    background-color: #89119D;
+    padding: 1rem;
+}
