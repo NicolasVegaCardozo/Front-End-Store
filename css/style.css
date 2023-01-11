@@ -19,6 +19,10 @@ body {
     line-height: 1.5;
 }
 
+main {
+    display: block;
+}
+
 div {
     display: block;
 }
@@ -49,8 +53,14 @@ a {
 }
 
 .contenedor {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.grid{
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
 }
 
 .producto {
@@ -63,5 +73,3 @@ a {
     text-align: center;
     line-height: 1.2;
 }
-
-.producto__imagen {}
