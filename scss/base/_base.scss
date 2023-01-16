@@ -26,9 +26,6 @@ a {
     text-decoration: none;
 }
 
-img {
-    width: 100%;
-}
 
 .contenedor {
     max-width: 120rem;
@@ -49,6 +46,7 @@ h1 {
 
 h2 {
     font-size: 3.2rem;
+    color: $secundario;
 }
 
 h3 {

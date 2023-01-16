@@ -26,9 +26,6 @@ a {
   text-decoration: none;
 }
 
-img {
-  width: 100%;
-}
 
 .contenedor {
   max-width: 120rem;
@@ -39,7 +36,7 @@ h1,
 h2,
 h3 {
   text-align: center;
-  color: #FFF;
+  color: #FFCE00;
   font-family: 'Staatliches', cursive;
 }
 
