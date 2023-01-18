@@ -26,6 +26,9 @@ a {
   text-decoration: none;
 }
 
+img {
+  width: 100%;
+}
 
 .contenedor {
   max-width: 120rem;
